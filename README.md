@@ -76,7 +76,6 @@ https://www.figma.com/file/C49QVujzta9dVIF3x45PGt/FoodCheck?node-id=0%3A1
 ### [BONUS] Interactive Prototype
 
 ## Schema 
-[This section will be completed in Unit 9]
 ### Models
 <table>
   <tr>
